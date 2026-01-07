@@ -1,0 +1,51 @@
+Date,User_ID,Gender,Age_Group,Activity_Type,Count,Premium_User
+2024-01-01,101,Female,25-34,App Opens,45,Yes
+2024-01-01,102,Male,18-24,Matches,12,No
+2024-01-01,107,Female,18-24,Profile Views,110,No
+2024-01-01,108,Non-Binary,35-44,Messages Sent,30,Yes
+2024-01-02,103,Non-Binary,25-34,Messages Sent,80,Yes
+2024-01-02,104,Male,35-44,Matches,3,No
+2024-01-02,109,Male,25-34,App Opens,60,Yes
+2024-01-03,101,Female,25-34,Matches,8,Yes
+2024-01-03,110,Female,35-44,Dates Planned,1,Yes
+2024-01-03,105,Female,18-24,Profile Views,95,Yes
+2024-01-04,104,Male,35-44,App Opens,30,No
+2024-01-04,102,Male,18-24,Messages Sent,15,No
+2024-01-04,111,Male,45+,Matches,2,Yes
+2024-01-05,106,Male,25-34,App Opens,55,Yes
+2024-01-05,112,Non-Binary,18-24,Messages Sent,120,No
+2024-01-05,103,Non-Binary,25-34,Dates Planned,2,Yes
+2024-01-06,105,Female,18-24,Dates Planned,4,Yes
+2024-01-06,107,Female,18-24,App Opens,88,No
+2024-01-06,101,Female,25-34,Messages Sent,65,Yes
+2024-01-06,113,Male,25-34,Matches,15,Yes
+2024-01-07,103,Non-Binary,25-34,Matches,5,Yes
+2024-01-07,108,Non-Binary,35-44,App Opens,25,Yes
+2024-01-07,104,Male,35-44,Messages Sent,20,No
+2024-01-07,114,Female,25-34,Dates Planned,3,No
+2024-01-08,102,Male,18-24,Profile Views,40,No
+2024-01-08,109,Male,25-34,Messages Sent,55,Yes
+2024-01-08,111,Male,45+,App Opens,10,Yes
+2024-01-09,101,Female,25-34,App Opens,50,Yes
+2024-01-09,115,Female,18-24,Matches,22,No
+2024-01-09,106,Male,25-34,Messages Sent,40,Yes
+2024-01-10,105,Female,18-24,Matches,10,Yes
+2024-01-10,112,Non-Binary,18-24,App Opens,130,No
+2024-01-10,110,Female,35-44,Messages Sent,25,Yes
+2024-01-11,102,Male,18-24,App Opens,25,No
+2024-01-11,107,Female,18-24,Matches,18,No
+2024-01-11,113,Male,25-34,Profile Views,60,Yes
+2024-01-12,106,Male,25-34,Dates Planned,3,Yes
+2024-01-12,114,Female,25-34,Messages Sent,75,No
+2024-01-12,108,Non-Binary,35-44,Matches,4,Yes
+2024-01-13,103,Non-Binary,25-34,Messages Sent,90,Yes
+2024-01-13,115,Female,18-24,Dates Planned,5,No
+2024-01-13,109,Male,25-34,App Opens,70,Yes
+2024-01-13,101,Female,25-34,Profile Views,105,Yes
+2024-01-14,104,Male,35-44,Matches,6,No
+2024-01-14,111,Male,45+,Messages Sent,12,Yes
+2024-01-14,112,Non-Binary,18-24,Dates Planned,1,No
+2024-01-14,105,Female,18-24,App Opens,60,Yes
+2024-01-15,102,Male,18-24,Matches,8,No
+2024-01-15,113,Male,25-34,Messages Sent,45,Yes
+2024-01-15,107,Female,18-24,Profile Views,90,No
